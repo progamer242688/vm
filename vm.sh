@@ -874,3 +874,4 @@ declare -A OS_OPTIONS=(
 
 # Start the main menu
 main_menu
+
